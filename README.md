@@ -2,15 +2,15 @@
 
 A comprehensive React.js safety navigation application that prioritizes user safety with real-time hazard detection, weather-aware routing, and AI assistance.
 
-## 🚀 Features
+## Features
 
 ### Input Page (Home Screen)
 - **Clean Interface**: Two input fields for current location and destination
 - **Transport Mode Selection**: Four transport options with icons:
-  - 🚗 Car - Fastest for long distances
-  - 🏍️ Motorcycle - Quick and agile
-  - 🚴 Bicycle - Eco-friendly option
-  - 🚶 Walking - Healthiest choice
+  - Car - Fastest for long distances
+  - Motorcycle - Quick and agile
+  - Bicycle - Eco-friendly option
+  - Walking - Healthiest choice
 - **GPS Integration**: Get current location automatically
 - **Professional Design**: Minimal and user-friendly interface
 
@@ -26,19 +26,19 @@ A comprehensive React.js safety navigation application that prioritizes user saf
 ### Hazard Detection & Reporting
 - **Interactive Hazard Markers**: Visual indicators on map with details
 - **Hazard Types Supported**:
-  - 🚗💥 Traffic Accidents
-  - 🌉⚠️ Bridge Collapse
-  - 🌊 Flooding
-  - 🚧 Construction
-  - ⚠️ Other Hazards
+  -  Traffic Accidents
+  -  Bridge Collapse
+  -  Flooding
+  -  Construction
+  -  Other Hazards
 - **AI-Powered Reporting**: Conversational hazard reporting interface
 - **Community Features**: User-generated hazard alerts for other travelers
 
 ### Side Menu Options
-- **📍 Report Hazard**: Interactive hazard reporting with AI assistance
-- **📋 Safety Guidelines**: Comprehensive safety rules for each transport mode
-- **🆘 Emergency SOS**: Pre-filled emergency contact with location data
-- **🏠 Change Destination**: Quick return to input page
+- **Report Hazard**: Interactive hazard reporting with AI assistance
+- **Safety Guidelines**: Comprehensive safety rules for each transport mode
+- **Emergency SOS**: Pre-filled emergency contact with location data
+- **Change Destination**: Quick return to input page
 
 ### Agentic AI Assistance
 - **Safety Prompts**: Mode-specific safety reminders:
@@ -65,7 +65,7 @@ A comprehensive React.js safety navigation application that prioritizes user saf
 - **Persistent AI Assistant**: Always-available AI chat interface
 - **Control Panel**: Easy access to SOS and destination change functions
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Technologies Used
 - **Frontend**: React.js 18+ with modern hooks
@@ -97,7 +97,7 @@ src/
 └── index.css                 # Base styles
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -127,7 +127,7 @@ Create optimized production build:
 npm run build
 ```
 
-## 🗝️ API Configuration
+## API Configuration
 
 ### Google Maps API Setup
 1. Get a Google Maps API key from [Google Cloud Console](https://console.cloud.google.com/)
@@ -149,7 +149,7 @@ The app is designed to work with weather APIs like:
 - **Traffic Data**: Integrate with traffic data providers for real-time updates
 - **Elevation Data**: Connect to elevation APIs for flood risk assessment
 
-## 🎨 Features in Detail
+## Features in Detail
 
 ### Responsive Design
 - **Mobile-First**: Optimized for smartphones and tablets
@@ -168,7 +168,7 @@ The app is designed to work with weather APIs like:
 - **Fast Routing**: Client-side routing with React Router
 - **Efficient Rendering**: React optimizations and memoization
 
-## 🔧 Customization
+## Customization
 
 ### Adding New Transport Modes
 1. Update the `transportModes` array in `TransportModeSelector.jsx`
@@ -185,7 +185,7 @@ The app is designed to work with weather APIs like:
 2. Add new response categories and patterns
 3. Integrate with external AI services if needed
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 ### Planned Features
 - **Real Google Maps Integration**: Full Google Maps API implementation
@@ -201,7 +201,7 @@ The app is designed to work with weather APIs like:
 - **Emergency Network**: Direct emergency service communication
 - **Health Monitoring**: Integration with fitness trackers for safety metrics
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please feel free to:
 1. Fork the repository
@@ -209,24 +209,17 @@ We welcome contributions! Please feel free to:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - React.js community for excellent documentation
 - Google Maps team for comprehensive mapping APIs
 - Open source weather data providers
 - Icons and emojis from various open source projects
 
-## 📞 Support
-
-For support, questions, or feature requests:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation wiki
-
 ---
 
-**Resilient Routes** - *Prioritizing your safety, one route at a time.* 🛡️🗺️
+**Resilient Routes** - *Prioritizing your safety, one route at a time.* 
